@@ -22,7 +22,7 @@ python main_src.py --epoch 100 --batchsize 20 --lr 1e-5
 # Adaptation to Target Domains (Subjects)
 ```sh
 python main_tar.py --epoch 25 --batchsize 32 --lr 1e-4 --biovid_annot_train $Path to the training data --biovid_annot_val $Path to the validation data --save_dir $Directory to save experiment results --img_dir Directory to save generated images --par_dir Directory to save the best parameters
-``
+```
 # Test
 
 # Citation
