@@ -29,4 +29,14 @@ python test.py
 ```
 
 # Citation
-
+```bibtex
+@article{xie2020facial,
+  title={Facial expression recognition with two-branch disentangled generative adversarial network},
+  author={Xie, Siyue and Hu, Haifeng and Chen, Yizhen},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={31},
+  number={6},
+  pages={2359--2371},
+  year={2020},
+  publisher={IEEE}
+}
