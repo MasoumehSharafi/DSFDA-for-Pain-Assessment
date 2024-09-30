@@ -5,7 +5,7 @@
 
 # Architecture
 
-![Slide2](https://github.com/user-attachments/assets/780a1772-373f-4783-9115-b1b5f72719e4)
+![Dis-SFDA_arc](https://github.com/user-attachments/assets/4992826a-bbe5-4f95-a0da-34a24f1d7d32)
 
 
 This work is inspired by the disentanglement approch for facial expression recognition proposed proposed by Xie et al. (2020) 
