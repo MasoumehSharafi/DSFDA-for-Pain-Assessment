@@ -17,6 +17,7 @@ This work is inspired by the disentanglement approach for facial expression reco
 # Train the Model on Source Domain
 ```sh
 python main_src.py
+```
 
 # Adaptation to Target Domains (Subjects)
 
