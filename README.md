@@ -13,10 +13,11 @@ This work is inspired by the disentanglement approch for facial expression recog
 # BioVid Database
 
 
-# Train the model on the source domain
+
+# Train the Model on Source Domain
 
 
-# Adaptation to the target domains (subjects)
+# Adaptation to Target Domains (Subjects)
 
 # Test
 
