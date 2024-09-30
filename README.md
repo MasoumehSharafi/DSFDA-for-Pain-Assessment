@@ -2,3 +2,10 @@
 
 
 # The Proposed Setting
+
+# Architecture
+
+This work is inspired by the disentanglement approch for facial expression recognition proposed proposed by Xie et al. (2020) 
+
+# BioVid Database
+
