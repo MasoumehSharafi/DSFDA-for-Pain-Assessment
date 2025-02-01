@@ -1,4 +1,4 @@
-# Subject-Based Adaptation for Facial Expression Recognition Using a Neutral Control Video
+# Disentangled Source-Free Personalisation for Facial Expression Recognition with Neutral Target Data
 This work is inspired by the disentanglement approach for facial expression recognition proposed by Xie et al. (2020) 
 
 # The Proposed Setting
