@@ -5,7 +5,7 @@ This work is inspired by the disentanglement approach for facial expression reco
 
 # Architecture
 
-![Dis-SFDA_arc](https://github.com/user-attachments/assets/4992826a-bbe5-4f95-a0da-34a24f1d7d32)
+
 
 
 
