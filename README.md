@@ -29,6 +29,7 @@ python test.py
 ```
 
 # Citation
+```sh
 @misc{sharafi2025disentangledsourcefreepersonalizationfacial,
       title={Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data}, 
       author={Masoumeh Sharafi and Emma Ollivier and Muhammad Osama Zeeshan and Soufiane Belharbi and Marco Pedersoli and Alessandro Lameiras Koerich and Simon Bacon and Eric~Granger},
@@ -38,3 +39,4 @@ python test.py
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2503.20771}, 
 }
+```
