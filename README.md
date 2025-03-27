@@ -1,6 +1,6 @@
 # Disentangled Source-Free Personalisation for Facial Expression Recognition with Neutral Target Data
  
-
+by # Masoumeh Sharafi, Emma Ollivier, Muhammad Osama Zeeshan, Soufiane Belharbi, Marco Pedersoli, Alessandro Lameiras Koerich, Simon Bacon, EricGranger
 # The Proposed Setting
 
 # Architecture
