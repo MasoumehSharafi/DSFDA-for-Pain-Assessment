@@ -19,7 +19,7 @@ Eric Granger<sup>1</sup>**
 <br/>
 <sup>4</sup> Montreal Behavioural Medicine Centre, Montreal, Canada
 
-<p align="center"><img src="doc/promo.png" alt="outline" width="90%"></p>
+<p align="center"><img src="promo.png" alt="outline" width="90%"></p>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.20771-b31b1b.svg)](https://arxiv.org/pdf/2503.20771)
 
