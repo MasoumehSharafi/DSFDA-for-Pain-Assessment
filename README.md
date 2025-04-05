@@ -1,4 +1,4 @@
-# [Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data (2025)](https://arxiv.org/pdf/2503.20771)
+# [Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data (FG2025)](https://arxiv.org/pdf/2503.20771)
 
 
 by
@@ -19,7 +19,7 @@ Eric Granger<sup>1</sup>**
 <br/>
 <sup>4</sup> Montreal Behavioural Medicine Centre, Montreal, Canada
 
-<p align="center"><img src="Dis-SFDA_arc.png" alt="outline" width="90%"></p>
+<p align="center"><img src="promo.png" alt="outline" width="90%"></p>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.20771-b31b1b.svg)](https://arxiv.org/pdf/2503.20771)
 
@@ -32,11 +32,10 @@ Experimental results on the challenging BioVid and UNBC-McMaster pain datasets i
 
 ## Citation:
 ```
-@article{sharafi25,
+@inproceedings{sharafi25,
   title={Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data},
   author={Sharafi, M. and Ollivier, E. and Zeeshan, M.O. and Belharbi, S. and Pedersoli, M. and Koerich, A.L. and Bacon, S. and Granger, E.},
-  journal={CoRR},
-  volume={abs/2503.20771},
+  booktitle={International Conference on Automatic Face and Gesture Recognition},
   year={2025}
 }
 ```
